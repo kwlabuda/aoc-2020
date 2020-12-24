@@ -1,5 +1,3 @@
-import math
-
 def get_data1():
     with open("day13.txt") as f:
         lines = f.read().split("\n")
